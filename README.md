@@ -1,29 +1,62 @@
-# Welcome to your Lovable project
+# Bytes Music Website
 
-This project was built with [Lovable](https://lovable.dev).
+**Bytes Music** — Your music, your vibe.
 
-## Build with Lovable
+Welcome to the official Bytes Music Website project. A modern music platform built to deliver a smooth, clean, and enjoyable music experience.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+* Modern and responsive user interface
+* Clean design and smooth navigation
+* Music-focused listening experience
+* Built with React, TypeScript, and Tailwind CSS
 
-## Development
+## Tech Stack
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+* React
+* TypeScript
+* TanStack Start
+* Tailwind CSS
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## Getting Started
 
-## Built with
+### Prerequisites
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+Make sure you have Node.js and npm installed on your system.
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone <your-repository-url>
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd <repository-name>
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Project Ownership
+
+Bytes Music is an independently developed project. This repository contains the source code for the Bytes Music Website.
+
+---
+
+**Bytes Music Website**
+*Feel the music. Live the vibe.*
